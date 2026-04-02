@@ -102,10 +102,87 @@
   ],
   "sections": [
     {
+      "id": "46b446da-0102-4b07-9fcc-6012a48dbec6",
+      "page_id": "e33cf134-5936-4878-9110-4b757c8b7297",
+      "title": "Is Agentation free?",
+      "order_index": 0,
+      "nav_title": null
+    },
+    {
+      "id": "8511241d-7501-4b7f-8c4e-a3c4181b1430",
+      "page_id": "395ece8c-1af0-4149-9e62-c7f05dc94501",
+      "title": "Base URL",
+      "order_index": 0,
+      "nav_title": null
+    },
+    {
+      "id": "4e3d7b35-4051-4698-81e0-a6bf0f6a5acc",
+      "page_id": "1b277829-5889-4cc2-9465-3a21df001459",
+      "title": "System Overview",
+      "order_index": 0,
+      "nav_title": null
+    },
+    {
+      "id": "0c1fbb42-e19c-44fa-b6a6-538f995db280",
+      "page_id": "2b7753dc-e783-4854-9b6e-8f82a326ef9c",
+      "title": "React Integration",
+      "order_index": 0,
+      "nav_title": null
+    },
+    {
+      "id": "8a29bbcd-d7d1-413d-9452-358462499595",
+      "page_id": "95a89ebf-58bf-4979-aa28-366c1c599631",
+      "title": "Buttons",
+      "order_index": 0,
+      "nav_title": null
+    },
+    {
       "id": "243759ea-d213-4fa4-bc79-8e49615652b8",
       "page_id": "8df0eec7-c4a6-405a-be53-345c56ad9e47",
       "title": "Prerequisites",
       "order_index": 0,
+      "nav_title": null
+    },
+    {
+      "id": "a46596bc-0320-4de9-bf68-6ee682831bb4",
+      "page_id": "fe247c27-673e-42fc-b4bf-6350309a6095",
+      "title": "v2.3.0 — March 2025",
+      "order_index": 0,
+      "nav_title": null
+    },
+    {
+      "id": "ba67c729-ea7c-414f-80c5-e77c4dba4d79",
+      "page_id": "fe89bc26-37e4-43f2-95bb-020f0f571c46",
+      "title": "Built-in Themes",
+      "order_index": 0,
+      "nav_title": null
+    },
+    {
+      "id": "07bcd7d8-8fd6-4c67-9348-2cbfc7370d9d",
+      "page_id": "a8b746af-10f3-4b0f-9cfa-5106a5b67e32",
+      "title": "Package Managers",
+      "order_index": 0,
+      "nav_title": null
+    },
+    {
+      "id": "1dafb711-b9da-4b6b-9dc2-0b19487527d4",
+      "page_id": "69db3788-0fc3-4fd8-94fa-c6d31eb61e82",
+      "title": "New Section",
+      "order_index": 0,
+      "nav_title": null
+    },
+    {
+      "id": "0f7dfd45-e0cc-4600-af91-4cc403aa0ede",
+      "page_id": "e63e534c-c328-4f15-ad1b-fdb674259d6c",
+      "title": "Configuration File",
+      "order_index": 0,
+      "nav_title": null
+    },
+    {
+      "id": "29cadf9c-e235-4eb6-bc79-d49f057f4372",
+      "page_id": "95a89ebf-58bf-4979-aa28-366c1c599631",
+      "title": "Cards",
+      "order_index": 1,
       "nav_title": null
     },
     {
@@ -116,11 +193,158 @@
       "nav_title": null
     },
     {
+      "id": "2d806e0d-73c9-4aea-b03d-ef4b61e2ab2c",
+      "page_id": "a8b746af-10f3-4b0f-9cfa-5106a5b67e32",
+      "title": "CDN",
+      "order_index": 1,
+      "nav_title": null
+    },
+    {
+      "id": "bfa06ce0-653f-4fea-9150-7de7077b78d4",
+      "page_id": "e63e534c-c328-4f15-ad1b-fdb674259d6c",
+      "title": "Environment Variables",
+      "order_index": 1,
+      "nav_title": null
+    },
+    {
+      "id": "e350cdee-3796-4846-8ecd-7bd753237e74",
+      "page_id": "1b277829-5889-4cc2-9465-3a21df001459",
+      "title": "Data Flow",
+      "order_index": 1,
+      "nav_title": null
+    },
+    {
+      "id": "4282229e-5c42-4ed8-b680-6f7b8c926b74",
+      "page_id": "fe247c27-673e-42fc-b4bf-6350309a6095",
+      "title": "v2.2.0 — February 2025",
+      "order_index": 1,
+      "nav_title": null
+    },
+    {
+      "id": "03b8fe1d-67b3-4c43-9ea6-9a6e01d29dbf",
+      "page_id": "395ece8c-1af0-4149-9e62-c7f05dc94501",
+      "title": "POST /annotations",
+      "order_index": 1,
+      "nav_title": null
+    },
+    {
+      "id": "bf10b57d-94ef-42b9-a355-735f7189e199",
+      "page_id": "fe89bc26-37e4-43f2-95bb-020f0f571c46",
+      "title": "Custom CSS",
+      "order_index": 1,
+      "nav_title": null
+    },
+    {
+      "id": "72a38d94-9c67-4170-8472-39cd66d0f58c",
+      "page_id": "2b7753dc-e783-4854-9b6e-8f82a326ef9c",
+      "title": "Webhook Handler",
+      "order_index": 1,
+      "nav_title": null
+    },
+    {
+      "id": "256027a6-87a5-4f8a-9454-31d75caa8004",
+      "page_id": "e33cf134-5936-4878-9110-4b757c8b7297",
+      "title": "Which AI tools does it work with?",
+      "order_index": 1,
+      "nav_title": null
+    },
+    {
+      "id": "5794d803-303d-4de5-9365-df826532976c",
+      "page_id": "fe247c27-673e-42fc-b4bf-6350309a6095",
+      "title": "v2.1.0 — January 2025",
+      "order_index": 2,
+      "nav_title": null
+    },
+    {
+      "id": "5bac6470-becb-41ef-bd8d-7e335287a420",
+      "page_id": "395ece8c-1af0-4149-9e62-c7f05dc94501",
+      "title": "GET /annotations",
+      "order_index": 2,
+      "nav_title": null
+    },
+    {
+      "id": "09f3f59c-a5e2-47f8-ac2f-2734e0125748",
+      "page_id": "2b7753dc-e783-4854-9b6e-8f82a326ef9c",
+      "title": "CI/CD Integration",
+      "order_index": 2,
+      "nav_title": null
+    },
+    {
+      "id": "7e582a65-80be-48d5-9ab3-e2e3ef174528",
+      "page_id": "1b277829-5889-4cc2-9465-3a21df001459",
+      "title": "Annotation Schema",
+      "order_index": 2,
+      "nav_title": null
+    },
+    {
+      "id": "61b52ece-f38e-44b9-b0e7-4a3b69a559df",
+      "page_id": "95a89ebf-58bf-4979-aa28-366c1c599631",
+      "title": "Form Elements",
+      "order_index": 2,
+      "nav_title": null
+    },
+    {
+      "id": "286126a5-750c-45b9-bca9-d271ee88f4d5",
+      "page_id": "e63e534c-c328-4f15-ad1b-fdb674259d6c",
+      "title": "Keyboard Shortcuts",
+      "order_index": 2,
+      "nav_title": null
+    },
+    {
       "id": "22cd7146-e5f1-4f17-97bf-35258e0f2a6c",
       "page_id": "8df0eec7-c4a6-405a-be53-345c56ad9e47",
       "title": "Video Walkthrough",
       "order_index": 2,
       "nav_title": null
+    },
+    {
+      "id": "540df30e-107a-49c0-8d35-dfe756392218",
+      "page_id": "e33cf134-5936-4878-9110-4b757c8b7297",
+      "title": "Does it work with Vue or Angular?",
+      "order_index": 2,
+      "nav_title": null
+    },
+    {
+      "id": "394f20c6-a5f7-4298-b889-8ff66a45cf9a",
+      "page_id": "fe89bc26-37e4-43f2-95bb-020f0f571c46",
+      "title": "Marker Colors",
+      "order_index": 2,
+      "nav_title": null
+    },
+    {
+      "id": "437ac825-db88-4604-93e8-571c625eccdf",
+      "page_id": "a8b746af-10f3-4b0f-9cfa-5106a5b67e32",
+      "title": "TypeScript",
+      "order_index": 2,
+      "nav_title": "TypeScript"
+    },
+    {
+      "id": "46a943f8-66b9-4268-bb77-575b6a56da04",
+      "page_id": "395ece8c-1af0-4149-9e62-c7f05dc94501",
+      "title": "DELETE /annotations/:id",
+      "order_index": 3,
+      "nav_title": null
+    },
+    {
+      "id": "613a2a77-a78a-4c41-8f7b-78b00b9e3329",
+      "page_id": "95a89ebf-58bf-4979-aa28-366c1c599631",
+      "title": "Image Example",
+      "order_index": 3,
+      "nav_title": null
+    },
+    {
+      "id": "22c5fe63-63ed-4b27-881f-c611fa74a1f0",
+      "page_id": "e33cf134-5936-4878-9110-4b757c8b7297",
+      "title": "Is my data sent to any server?",
+      "order_index": 3,
+      "nav_title": null
+    },
+    {
+      "id": "49248af3-9b20-4866-80b6-8aceccd9c975",
+      "page_id": "a8b746af-10f3-4b0f-9cfa-5106a5b67e32",
+      "title": "Verify Installation",
+      "order_index": 3,
+      "nav_title": "Verify Installation"
     }
   ],
   "blocks": [
@@ -130,6 +354,236 @@
       "type": "paragraph",
       "content": {
         "text": "Get up and running with Agentation in under 5 minutes."
+      },
+      "order_index": 0
+    },
+    {
+      "id": "e5689ca7-0d58-4839-84cb-a8ec9b42603b",
+      "section_id": "1e40597c-2349-4cba-861c-892a2e7512c8",
+      "type": "paragraph",
+      "content": {
+        "text": "1. Install the package"
+      },
+      "order_index": 0
+    },
+    {
+      "id": "79466afa-9db5-4431-83ff-3137fca7ae09",
+      "section_id": "8a29bbcd-d7d1-413d-9452-358462499595",
+      "type": "paragraph",
+      "content": {
+        "text": "Various button styles used across the documentation: Primary, Secondary, Ghost, and Small variants."
+      },
+      "order_index": 0
+    },
+    {
+      "id": "693ae7b8-ddbb-49fd-a66c-79ebdcad3e33",
+      "section_id": "29cadf9c-e235-4eb6-bc79-d49f057f4372",
+      "type": "paragraph",
+      "content": {
+        "text": "Card components include: Annotation Card (display user feedback with element context), Metric Card (show numerical data), Status Card (indicate system status), and Action Card (clickable cards that trigger workflows)."
+      },
+      "order_index": 0
+    },
+    {
+      "id": "c65870a4-fc06-40a6-bf1b-050320efc5d1",
+      "section_id": "61b52ece-f38e-44b9-b0e7-4a3b69a559df",
+      "type": "paragraph",
+      "content": {
+        "text": "Standard form elements: text inputs, textareas, checkboxes, and selects. All support validation states."
+      },
+      "order_index": 0
+    },
+    {
+      "id": "4ba9049a-fa43-4510-95fe-05b5e7b8e11c",
+      "section_id": "613a2a77-a78a-4c41-8f7b-78b00b9e3329",
+      "type": "image",
+      "content": {
+        "alt": "Code on a screen",
+        "url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=680&h=400&fit=crop",
+        "caption": "Images are rendered with lazy loading and responsive sizing."
+      },
+      "order_index": 0
+    },
+    {
+      "id": "6f60b9bc-dd39-4fe5-9383-6ac26477ba2e",
+      "section_id": "8511241d-7501-4b7f-8c4e-a3c4181b1430",
+      "type": "paragraph",
+      "content": {
+        "text": "Complete API documentation for the Agentation HTTP server."
+      },
+      "order_index": 0
+    },
+    {
+      "id": "651a2165-b5ee-4c5e-9816-ce0b27c1aef9",
+      "section_id": "03b8fe1d-67b3-4c43-9ea6-9a6e01d29dbf",
+      "type": "paragraph",
+      "content": {
+        "text": "Create a new annotation."
+      },
+      "order_index": 0
+    },
+    {
+      "id": "97ab336b-820c-4009-b6b7-c76fa5a8bb1b",
+      "section_id": "5bac6470-becb-41ef-bd8d-7e335287a420",
+      "type": "paragraph",
+      "content": {
+        "text": "List all annotations for the current project. Supports status, page, and limit query parameters."
+      },
+      "order_index": 0
+    },
+    {
+      "id": "2b45662e-e142-4651-83d6-c778917932bf",
+      "section_id": "46a943f8-66b9-4268-bb77-575b6a56da04",
+      "type": "paragraph",
+      "content": {
+        "text": "Remove a specific annotation."
+      },
+      "order_index": 0
+    },
+    {
+      "id": "eb424a3b-18ba-4260-8278-c1c3cce97db1",
+      "section_id": "ba67c729-ea7c-414f-80c5-e77c4dba4d79",
+      "type": "paragraph",
+      "content": {
+        "text": "Agentation ships with three built-in themes: Light, Dark, and Auto."
+      },
+      "order_index": 0
+    },
+    {
+      "id": "2cea31db-6b16-4330-a613-70909264b9e5",
+      "section_id": "bf10b57d-94ef-42b9-a355-735f7189e199",
+      "type": "paragraph",
+      "content": {
+        "text": "Override any toolbar style with CSS custom properties:"
+      },
+      "order_index": 0
+    },
+    {
+      "id": "c04324c9-0e95-4aed-b712-99561281291d",
+      "section_id": "394f20c6-a5f7-4298-b889-8ff66a45cf9a",
+      "type": "paragraph",
+      "content": {
+        "text": "Customize annotation marker colors. Available defaults: #4a9eff, #ff6b35, #22c55e, #eab308, #ef4444, #8b5cf6."
+      },
+      "order_index": 0
+    },
+    {
+      "id": "5b80510f-57a8-4aba-b56e-e28a51af57b1",
+      "section_id": "0c1fbb42-e19c-44fa-b6a6-538f995db280",
+      "type": "paragraph",
+      "content": {
+        "text": "Real-world examples and common integration patterns."
+      },
+      "order_index": 0
+    },
+    {
+      "id": "37368f71-55d0-4d26-a6e3-220b519c5046",
+      "section_id": "72a38d94-9c67-4170-8472-39cd66d0f58c",
+      "type": "code_block",
+      "content": {
+        "code": "app.post('/webhooks/agentation', (req, res) => {\n  const { event, annotation } = req.body;\n  \n  switch (event) {\n    case 'annotation.created':\n      createIssue(annotation);\n      break;\n    case 'annotation.resolved':\n      closeIssue(annotation.id);\n      break;\n  }\n  \n  res.status(200).json({ received: true });\n});",
+        "language": "typescript"
+      },
+      "order_index": 0
+    },
+    {
+      "id": "462cb493-c83b-4786-9c85-54aeaea4cf8f",
+      "section_id": "09f3f59c-a5e2-47f8-ac2f-2734e0125748",
+      "type": "code_block",
+      "content": {
+        "code": "name: Process Annotations\non:\n  workflow_dispatch:\n    inputs:\n      annotation_id:\n        description: 'Annotation ID to process'\n        required: true\n\njobs:\n  process:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v4\n      - run: npx agentation resolve ${{ inputs.annotation_id }}",
+        "language": "yaml"
+      },
+      "order_index": 0
+    },
+    {
+      "id": "89941d9d-cea1-404f-b121-9661ea899120",
+      "section_id": "46b446da-0102-4b07-9fcc-6012a48dbec6",
+      "type": "paragraph",
+      "content": {
+        "text": "Yes. Agentation is free for individuals and companies for internal use. Contact us for a commercial license if you're redistributing it as part of a product."
+      },
+      "order_index": 0
+    },
+    {
+      "id": "af1933aa-7666-4b35-aaaf-6054f329c76c",
+      "section_id": "256027a6-87a5-4f8a-9454-31d75caa8004",
+      "type": "paragraph",
+      "content": {
+        "text": "Agentation works with any AI coding tool that accepts text input — Claude Code, Cursor, GitHub Copilot, Windsurf, and more. MCP integration provides the deepest experience with Claude Code."
+      },
+      "order_index": 0
+    },
+    {
+      "id": "72a3487b-13a8-41c5-8eb7-3a8f0ff2a54b",
+      "section_id": "540df30e-107a-49c0-8d35-dfe756392218",
+      "type": "paragraph",
+      "content": {
+        "text": "Basic annotation works with any web framework. React-specific features like component tree detection are currently React-only. Vue support is partial, Angular/Svelte planned for v3.0."
+      },
+      "order_index": 0
+    },
+    {
+      "id": "4fd9e23b-7c81-488c-9270-e7ee1ed8eeff",
+      "section_id": "22c5fe63-63ed-4b27-881f-c611fa74a1f0",
+      "type": "paragraph",
+      "content": {
+        "text": "No. All annotation data stays on your local machine. The HTTP and MCP servers run on localhost. Nothing is sent externally unless you configure webhooks."
+      },
+      "order_index": 0
+    },
+    {
+      "id": "e8b5b284-7882-4fa6-a94b-6007d534d5bc",
+      "section_id": "a46596bc-0320-4de9-bf68-6ee682831bb4",
+      "type": "unordered_list",
+      "content": {
+        "items": [
+          "Added animation pause mode for annotating specific frames",
+          "New keyboard shortcuts for all toolbar actions",
+          "Improved component tree detection for React 19",
+          "Fixed marker positioning on scrolled pages"
+        ]
+      },
+      "order_index": 0
+    },
+    {
+      "id": "9bcd9882-05d1-4ea2-83d6-49ffa6651f71",
+      "section_id": "4282229e-5c42-4ed8-b680-6f7b8c926b74",
+      "type": "unordered_list",
+      "content": {
+        "items": [
+          "Webhook support for external integrations",
+          "Custom marker colors in settings",
+          "Block page interactions mode during annotation",
+          "Performance improvements for large DOMs"
+        ]
+      },
+      "order_index": 0
+    },
+    {
+      "id": "3bc961f7-ec80-45bd-8bad-0b31277e58a3",
+      "section_id": "5794d803-303d-4de5-9365-df826532976c",
+      "type": "unordered_list",
+      "content": {
+        "items": [
+          "MCP server for real-time agent sync",
+          "Agent response annotations",
+          "Self-driving mode (experimental)",
+          "Critique mode for automated feedback"
+        ]
+      },
+      "order_index": 0
+    },
+    {
+      "id": "035300da-fe92-4524-a02c-22adfa1cf397",
+      "section_id": "1dafb711-b9da-4b6b-9dc2-0b19487527d4",
+      "type": "api_endpoint",
+      "content": {
+        "path": "/api/endpoint",
+        "method": "GET",
+        "response": "",
+        "parameters": [],
+        "description": ""
       },
       "order_index": 0
     },
@@ -144,13 +598,232 @@
       "order_index": 0
     },
     {
-      "id": "e5689ca7-0d58-4839-84cb-a8ec9b42603b",
-      "section_id": "1e40597c-2349-4cba-861c-892a2e7512c8",
+      "id": "9e7ef867-4663-4013-ab0a-62c75a85d271",
+      "section_id": "07bcd7d8-8fd6-4c67-9348-2cbfc7370d9d",
       "type": "paragraph",
       "content": {
-        "text": "1. Install the package"
+        "text": "Install Agentation via your preferred package manager."
       },
       "order_index": 0
+    },
+    {
+      "id": "bf8fe392-937d-42c7-ac29-97eb9ab0b959",
+      "section_id": "2d806e0d-73c9-4aea-b03d-ef4b61e2ab2c",
+      "type": "paragraph",
+      "content": {
+        "text": "You can also include Agentation directly via a CDN for quick prototyping:"
+      },
+      "order_index": 0
+    },
+    {
+      "id": "14f5ed26-ea9b-448b-a652-cb3b8d7250da",
+      "section_id": "437ac825-db88-4604-93e8-571c625eccdf",
+      "type": "paragraph",
+      "content": {
+        "text": "Agentation includes TypeScript declarations out of the box. No additional @types package is needed."
+      },
+      "order_index": 0
+    },
+    {
+      "id": "7ae9c77d-c82c-41b7-b442-6ec2d5cecf0c",
+      "section_id": "49248af3-9b20-4866-80b6-8aceccd9c975",
+      "type": "paragraph",
+      "content": {
+        "text": "Run the following to verify everything is working:"
+      },
+      "order_index": 0
+    },
+    {
+      "id": "8b9e401c-00fc-4068-b228-c5baeef7d824",
+      "section_id": "0f7dfd45-e0cc-4600-af91-4cc403aa0ede",
+      "type": "paragraph",
+      "content": {
+        "text": "Create an agentation.config.ts file in your project root:"
+      },
+      "order_index": 0
+    },
+    {
+      "id": "6925eed6-0fb6-481e-82c7-42f19a5f797e",
+      "section_id": "bfa06ce0-653f-4fea-9150-7de7077b78d4",
+      "type": "paragraph",
+      "content": {
+        "text": "AGENTATION_ENABLED (default: true) — Enable/disable toolbar.\nAGENTATION_MCP_PORT (default: 3001) — MCP server port.\nAGENTATION_THEME (default: auto) — Force theme override."
+      },
+      "order_index": 0
+    },
+    {
+      "id": "542f33f2-2be5-4b44-b1aa-cd00d1a1830c",
+      "section_id": "286126a5-750c-45b9-bca9-d271ee88f4d5",
+      "type": "paragraph",
+      "content": {
+        "text": "P — Pause animations\nH — Hide markers\nC — Copy feedback\nS — Send annotations\nX — Clear all\nEsc — Exit toolbar"
+      },
+      "order_index": 0
+    },
+    {
+      "id": "9c4fbff3-bac7-43e8-80bb-6f58619df7f5",
+      "section_id": "4e3d7b35-4051-4698-81e0-a6bf0f6a5acc",
+      "type": "paragraph",
+      "content": {
+        "text": "Agentation runs as a three-part system: a browser toolbar, an HTTP/MCP server, and your AI agent. Each component communicates through structured annotation data."
+      },
+      "order_index": 0
+    },
+    {
+      "id": "5fc62e80-73cf-4db7-886e-f4f94d679a9b",
+      "section_id": "e350cdee-3796-4846-8ecd-7bd753237e74",
+      "type": "ordered_list",
+      "content": {
+        "items": [
+          "User clicks an element in the browser toolbar",
+          "Toolbar captures CSS selector, component tree, computed styles",
+          "Annotation is POSTed to the HTTP server at /annotations",
+          "Server stores annotation and notifies MCP clients",
+          "AI agent calls get_pending to retrieve new annotations",
+          "Agent processes feedback and responds with code changes"
+        ]
+      },
+      "order_index": 0
+    },
+    {
+      "id": "58aba307-89c4-4733-8ebf-149bfa77bf3e",
+      "section_id": "7e582a65-80be-48d5-9ab3-e2e3ef174528",
+      "type": "code_block",
+      "content": {
+        "code": "interface Annotation {\n  id: string;\n  timestamp: number;\n  element: {\n    selector: string;\n    xpath: string;\n    rect: DOMRect;\n    computedStyles: Record<string, string>;\n  };\n  component?: {\n    name: string;\n    file: string;\n    line: number;\n    props: Record<string, unknown>;\n  };\n  feedback: {\n    text: string;\n    priority: 'low' | 'medium' | 'high';\n    type: 'bug' | 'improvement' | 'question';\n  };\n}",
+        "language": "typescript"
+      },
+      "order_index": 0
+    },
+    {
+      "id": "b370d703-303b-4cff-95bc-e349e7dc955e",
+      "section_id": "1e40597c-2349-4cba-861c-892a2e7512c8",
+      "type": "code_block",
+      "content": {
+        "code": "npm install agentation\n# or\npnpm add agentation",
+        "language": "bash"
+      },
+      "order_index": 1
+    },
+    {
+      "id": "e6fc3cca-e307-421e-939c-bdac71452416",
+      "section_id": "437ac825-db88-4604-93e8-571c625eccdf",
+      "type": "code_block",
+      "content": {
+        "code": "import type { AgentationConfig, Annotation } from 'agentation';\n\nconst config: AgentationConfig = {\n  projectId: 'my-project',\n  theme: 'light',\n  output: 'standard',\n};",
+        "language": "typescript"
+      },
+      "order_index": 1
+    },
+    {
+      "id": "72fb39a4-9ea6-4146-8c7b-9e7bc97e0bc6",
+      "section_id": "bf10b57d-94ef-42b9-a355-735f7189e199",
+      "type": "code_block",
+      "content": {
+        "code": ":root {\n  --agentation-bg: #1a1a1a;\n  --agentation-fg: #ffffff;\n  --agentation-accent: #4a9eff;\n  --agentation-border: #333;\n  --agentation-radius: 8px;\n  --agentation-font: 'Inter', sans-serif;\n}",
+        "language": "css"
+      },
+      "order_index": 1
+    },
+    {
+      "id": "32892f8b-6b8c-47b6-a4c5-538dbb7faf12",
+      "section_id": "49248af3-9b20-4866-80b6-8aceccd9c975",
+      "type": "code_block",
+      "content": {
+        "code": "npx agentation --version\n# Expected: agentation v2.3.0",
+        "language": "bash"
+      },
+      "order_index": 1
+    },
+    {
+      "id": "7f266fdc-b6a8-4f17-a064-bc2c92c05122",
+      "section_id": "0f7dfd45-e0cc-4600-af91-4cc403aa0ede",
+      "type": "code_block",
+      "content": {
+        "code": "import { defineConfig } from 'agentation';\n\nexport default defineConfig({\n  projectId: 'my-project',\n  theme: 'auto',\n  position: 'bottom-right',\n  hotkey: 'ctrl+shift+a',\n  output: {\n    detail: 'standard',\n    includeStyles: true,\n    includeReactTree: true,\n  },\n  mcp: {\n    enabled: true,\n    port: 3001,\n  },\n});",
+        "language": "typescript"
+      },
+      "order_index": 1
+    },
+    {
+      "id": "189290dc-b6a1-4ae1-a714-936ac88f8fff",
+      "section_id": "8511241d-7501-4b7f-8c4e-a3c4181b1430",
+      "type": "code_block",
+      "content": {
+        "code": "http://localhost:3001/api/v1",
+        "language": "text"
+      },
+      "order_index": 1
+    },
+    {
+      "id": "0c27c51f-25dd-45fa-bbf3-af11a898eb88",
+      "section_id": "394f20c6-a5f7-4298-b889-8ff66a45cf9a",
+      "type": "code_block",
+      "content": {
+        "code": "agent.configure({\n  markerColor: '#4a9eff',\n});",
+        "language": "typescript"
+      },
+      "order_index": 1
+    },
+    {
+      "id": "ee85c940-dc33-4b13-8938-51239e477e29",
+      "section_id": "03b8fe1d-67b3-4c43-9ea6-9a6e01d29dbf",
+      "type": "code_block",
+      "content": {
+        "code": "{\n  \"element\": {\n    \"selector\": \".sidebar > button.primary\",\n    \"xpath\": \"/html/body/div[1]/aside/button[2]\"\n  },\n  \"feedback\": {\n    \"text\": \"Button text is unclear\",\n    \"priority\": \"high\",\n    \"type\": \"bug\"\n  }\n}",
+        "language": "json"
+      },
+      "order_index": 1
+    },
+    {
+      "id": "6aeb8c45-faa9-41bb-a489-9f8343092e99",
+      "section_id": "4e3d7b35-4051-4698-81e0-a6bf0f6a5acc",
+      "type": "code_block",
+      "content": {
+        "code": "Browser Toolbar  →  HTTP/MCP Server  →  AI Agent",
+        "language": "text"
+      },
+      "order_index": 1
+    },
+    {
+      "id": "474c9c52-7939-44c0-8b40-bc59daed5114",
+      "section_id": "0c1fbb42-e19c-44fa-b6a6-538f995db280",
+      "type": "code_block",
+      "content": {
+        "code": "import { useAgentation } from 'agentation/react';\n\nfunction App() {\n  const { annotations, isActive } = useAgentation();\n\n  return (\n    <div>\n      <h1>My App</h1>\n      {isActive && (\n        <div className=\"annotation-count\">\n          {annotations.length} annotations\n        </div>\n      )}\n    </div>\n  );\n}",
+        "language": "tsx"
+      },
+      "order_index": 1
+    },
+    {
+      "id": "eba39a73-6a8c-4f5b-9fd3-983ea1e1b005",
+      "section_id": "46a943f8-66b9-4268-bb77-575b6a56da04",
+      "type": "code_block",
+      "content": {
+        "code": "curl -X DELETE http://localhost:3001/api/v1/annotations/ann_abc123",
+        "language": "bash"
+      },
+      "order_index": 1
+    },
+    {
+      "id": "fa738df7-afca-489f-a1ea-0afa3a339d0e",
+      "section_id": "07bcd7d8-8fd6-4c67-9348-2cbfc7370d9d",
+      "type": "code_block",
+      "content": {
+        "code": "# npm\nnpm install agentation\n\n# pnpm\npnpm add agentation\n\n# yarn\nyarn add agentation\n\n# bun\nbun add agentation",
+        "language": "bash"
+      },
+      "order_index": 1
+    },
+    {
+      "id": "810f17be-bea0-42bf-a6e8-b944e2e94c26",
+      "section_id": "2d806e0d-73c9-4aea-b03d-ef4b61e2ab2c",
+      "type": "code_block",
+      "content": {
+        "code": "<script src=\"https://cdn.agentation.dev/v2/agentation.min.js\"></script>\n<script>\n  Agentation.init({ theme: 'auto' });\n</script>",
+        "language": "html"
+      },
+      "order_index": 1
     },
     {
       "id": "f01e0f08-f906-4ce1-a1b5-f46d6dc0700b",
@@ -167,14 +840,13 @@
       "order_index": 1
     },
     {
-      "id": "b370d703-303b-4cff-95bc-e349e7dc955e",
-      "section_id": "1e40597c-2349-4cba-861c-892a2e7512c8",
-      "type": "code_block",
+      "id": "1e3724ab-4c4c-456d-bc94-1a9c0ee001ad",
+      "section_id": "2d806e0d-73c9-4aea-b03d-ef4b61e2ab2c",
+      "type": "note",
       "content": {
-        "code": "npm install agentation\n# or\npnpm add agentation",
-        "language": "bash"
+        "text": "CDN usage is not recommended for production. Use a package manager instead for tree-shaking and version control."
       },
-      "order_index": 1
+      "order_index": 2
     },
     {
       "id": "f91ac87b-51d7-4c12-ad69-cf25df3c83b2",
