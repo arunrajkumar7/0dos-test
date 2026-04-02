@@ -1,1 +1,25 @@
-{"colors":{"primary":"0 0% 13%"}}
+{
+  "colors": {
+    "primary": "0 0% 13%",
+    "background": "0 0% 100%",
+    "foreground": "0 0% 13%",
+    "border": "0 0% 90%",
+    "mutedForeground": "0 0% 45%",
+    "codeBlockBg": "0 0% 97%"
+  },
+  "typography": {
+    "bodyFont": "Inter",
+    "headingFont": "Inter",
+    "codeFont": "JetBrains Mono",
+    "baseFontSize": 15,
+    "headingFontSize": 18,
+    "pageTitleSize": 24,
+    "lineHeight": 1.7,
+    "headingWeight": "600"
+  },
+  "layout": {
+    "contentMaxWidth": 680,
+    "sidebarWidth": 240,
+    "sectionSpacing": 40
+  }
+}

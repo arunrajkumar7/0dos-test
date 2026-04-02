@@ -1,1 +1,49 @@
-{"navigation":[],"ungrouped":[{"title":"Getting Started","slug":"getting-started"}]}
+{
+  "navigation": [],
+  "ungrouped": [
+    {
+      "title": "Getting Started",
+      "slug": "getting-started"
+    },
+    {
+      "title": "Installation",
+      "slug": "installation"
+    },
+    {
+      "title": "Configuration",
+      "slug": "configuration"
+    },
+    {
+      "title": "Architecture",
+      "slug": "architecture"
+    },
+    {
+      "title": "Components",
+      "slug": "components"
+    },
+    {
+      "title": "API Reference",
+      "slug": "api-reference"
+    },
+    {
+      "title": "Theming",
+      "slug": "theming"
+    },
+    {
+      "title": "Examples",
+      "slug": "examples"
+    },
+    {
+      "title": "FAQ",
+      "slug": "faq"
+    },
+    {
+      "title": "Changelog",
+      "slug": "changelog"
+    },
+    {
+      "title": "New Page",
+      "slug": "page-1772995470785"
+    }
+  ]
+}
